@@ -1,2 +1,6 @@
 # hellow-world
-Just another repository
+
+Hi everybody!
+Yone-san here. I like Python.
+I'm beginner(learner)
+
